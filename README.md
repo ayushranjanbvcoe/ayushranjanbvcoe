@@ -1,68 +1,42 @@
-<h1 align="center">🚀 Welcome to My GitHub Profile! 🚀</h1>
-<h3 align="center">🎓 Final-year Student (Graduating 2025) | 💻 Java Developer | 🤖 Machine Learning Enthusiast</h3>
+<h1 align="center">Glad to see you here! Hi 👋, I'm Ayush Ranjan</h1>
+<h3 align="center">🎓 Final-year student (Graduating 2025) | 💻 Java Developer | 🤖 Machine Learning Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushranjanbvcoe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushranjanbvcoe&label=Profile%20views&color=0e75b6&style=flat" alt="ayushranjanbvcoe" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushranjanbvcoe" alt="ayushranjanbvcoe" /></a> </p>
+
+- 🔭 I’m currently working on [Brain Stroke Prediction Using ML](https://github.com/ayushranjanbvcoe/Brain-Stroke-Prediction-Using-ML)
+
+- 🌱 I’m currently learning **JAVA , Machine Learning , Business Analysis**
+
+- 👯 Project-2 [Resume Categorizer](https://github.com/ayushranjanbvcoe/Resume-Categorization-Application-Using-Machine-Learning-)
+
+- 🤝 Project-1 [Fake News Detector](https://github.com/ayushranjanbvcoe/FakeNewsDetection_UsingML)
+
+- 👨‍💻 All of my projects are available at [https://github.com/ayushranjanbvcoe](https://github.com/ayushranjanbvcoe)
+
+- 💬 Ask me about **Java , Machine Learning**
+
+- 📫 How to reach me **ayushranjanofficial02@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/15m7v4m8_S-_p9f4NLKZhN0LJs4vMqwho/view](https://drive.google.com/file/d/15m7v4m8_S-_p9f4NLKZhN0LJs4vMqwho/view)
+
+- ⚡ Fun fact **I use tabs over spaces 😉**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ayushranjan2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushranjan2002" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayush-ranjan-85939a195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-ranjan-85939a195/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ayush_ranjan02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayush_ranjan02" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ayushranjan02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushranjan02" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ayushranjan007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayushranjan007" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ayushranjan001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushranjan001" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ayushranjan02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayushranjan02" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayushranjanbvcoe&theme=onedark&no-frame=true&margin-w=5" alt="GitHub Trophies" />
-  </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<h2 align="center">🌟 Featured Projects</h2>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7DC6F&size=22&center=true&vCenter=true&width=600&lines=Brain+Stroke+Prediction+Using+ML;Resume+Categorizer;Fake+News+Detection+Using+ML" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushranjanbvcoe&show_icons=true&locale=en&layout=compact" alt="ayushranjanbvcoe" /></p>
 
-<ul>
-  <li>🔭 Currently working on <a href="https://github.com/ayushranjanbvcoe/Brain-Stroke-Prediction-Using-ML">Brain Stroke Prediction Using ML</a></li>
-  <li>👯 Project-2: <a href="https://github.com/ayushranjanbvcoe/Resume-Categorization-Application-Using-Machine-Learning-">Resume Categorizer</a></li>
-  <li>🤝 Project-1: <a href="https://github.com/ayushranjanbvcoe/FakeNewsDetection_UsingML">Fake News Detector</a></li>
-</ul>
-
-<h2 align="center">📫 Connect With Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/ayush-ranjan-85939a195" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Ayush_Ranjan-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:ayushranjanofficial02@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-ayushranjanofficial02@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-</p>
-
-<h2 align="center">🛠️ My Tech Stack</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,pandas,postgres" />
-</p>
-
-<h2 align="center">📈 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushranjanbvcoe&theme=tokyonight&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushranjanbvcoe&show_icons=true&theme=react&animate=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushranjanbvcoe&layout=compact&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/main/graph.png?raw=true" />
-</p>
-
-<h2 align="center">⚡ Fun Fact</h2>
-<p align="center"><b>I use tabs over spaces 😉</b></p>
-
-<h2 align="center">🌠 Keep Exploring!</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="500" />
-</p>
-
-<!-- Additional High Complexity Animations -->
-<p align="center">
-  <img src="https://github.com/Ashutosh00710/github-readme-animations/blob/main/working.gif?raw=true" width="400" alt="Working on Code" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/saadeghi/saadeghi/blob/main/dino.gif?raw=true" width="500" alt="Dino Game" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushranjanbvcoe&show_icons=true&locale=en" alt="ayushranjanbvcoe" /></p>
