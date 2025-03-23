@@ -1,7 +1,7 @@
 <h1 align="center">Glad to see you here! Hi 👋, I'm Ayush Ranjan</h1>
 <h3 align="center">🎓 Final-year student (Graduating 2025) | 💻 Java Developer | 🤖 Machine Learning Enthusiast</h3>
 <p align="center">
-  <img src="https://ibb.co/GvM0jTS8" alt="Ayush Ranjan" width="200"/>
+  <img src="https://www.imghippo.com/i/Nu9364mqc.jpg" alt="Ayush Ranjan" width="200"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushranjanbvcoe&label=Profile%20views&color=0e75b6&style=flat" alt="ayushranjanbvcoe" /> </p>
