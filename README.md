@@ -1,4 +1,7 @@
 <h1 align="center">Glad to see you here! Hi 👋, I'm Ayush Ranjan</h1>
+<p align="center">
+  <img src="C:\Users\hp\Downloads\DALL·E 2025-03-23 19.09.40 - A realistic AI-generated portrait of a young man with an oval-shaped, healthy face, short black hair, and a well-groomed beard, focused on coding. He.jpg" alt="Ayush Ranjan" width="200"/>
+</p>
 <h3 align="center">🎓 Final-year student (Graduating 2025) | 💻 Java Developer | 🤖 Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushranjanbvcoe&label=Profile%20views&color=0e75b6&style=flat" alt="ayushranjanbvcoe" /> </p>
