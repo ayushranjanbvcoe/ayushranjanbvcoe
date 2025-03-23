@@ -1,4 +1,6 @@
-![Background](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%" height="auto"/>
+</p>
 
 
 <h1 align="center">Glad to see you here! Hi 👋, I'm Ayush Ranjan</h1>
