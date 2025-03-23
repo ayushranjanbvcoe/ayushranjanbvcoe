@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" alt="Background GIF">
+</div>
 <h1 align="center">Glad to see you here! Hi 👋, I'm Ayush Ranjan</h1>
 <h3 align="center">🎓 Final-year student (Graduating 2025) | 💻 Java Developer | 🤖 Machine Learning Enthusiast</h3>
 
