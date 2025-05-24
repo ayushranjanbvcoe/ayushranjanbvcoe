@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushranjanbvcoe" alt="ayushranjanbvcoe" /></a> </p>
 
-- 🔭 Project-3 [Brain Stroke Prediction Using ML]([https://github.com/ayushranjanbvcoe/Brain-Stroke-Prediction-Using-ML](https://github.com/ayushranjanbvcoe/Brain-Stroke-Prediction-Using-Machine-Learning))
+- 🔭 Project-3 [Brain Stroke Prediction Using ML]([https://github.com/ayushranjanbvcoe/Brain-Stroke-Prediction-Using-ML](https://github.com/ayushranjanbvcoe/Brain-Stroke-Prediction-Using-Machine-Learning)
 
 - 🌱 I’m currently learning **JAVA, Machine Learning, Business Analysis**
 
